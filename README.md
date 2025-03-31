@@ -70,7 +70,7 @@ docker run -p 5000:5000 ai_makerspace_midterm
 ## Usage
 Running the Pipeline
 - Jupyter Notebook: Open ai_makerspace_midterm_rag.ipynb to explore and run the pipeline interactively.
-- Python Application:
+- Python Application: Run the main application with:
 ```bash
-Run the main application with:
+python app.py
 ```
